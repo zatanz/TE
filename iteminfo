@@ -1,0 +1,511 @@
+tbl = {		 [501] = {
+		
+	unidentifiedDisplayName = "Red Potion",
+		
+	unidentifiedResourceName = "ปกฐฃฦ๗ผว",
+		
+	unidentifiedDescriptionName = {
+
+		"น้ำยาสำหรับฟื้น HP ประมาณ ^00008845^000000 ทำมาจาก Red Herbs",
+			
+		"^ffffff_^000000",
+			
+		"น้ำหนัก : ^7777777^000000"
+		
+		},
+		
+	identifiedDisplayName = "Red Potion",
+		
+	identifiedResourceName = "ปกฐฃฦ๗ผว",
+		
+	identifiedDescriptionName = {
+			
+		"น้ำยาสำหรับฟื้น HP ประมาณ ^00008845^000000 ทำมาจาก Red Herbs",
+			
+		"น้ำหนัก : ^7777777^000000"
+		
+	},
+		
+	slotCount = 0,
+		
+	ClassNum = 0
+		
+	},
+ [502] = {
+		
+	unidentifiedDisplayName = "Orange Potion",
+		
+	unidentifiedResourceName = "มึศซฦ๗ผว",
+		
+	unidentifiedDescriptionName = {
+			
+		"น้ำยาสำหรับฟื้น HP ประมาณ ^000088105^000000 ทำมาจาก Red Herbs และ Yellow Herbs",
+			
+		"^ffffff_^000000",
+			
+		"น้ำหนัก : ^77777710^000000"
+		
+	},
+		
+	identifiedDisplayName = "Orange Potion",
+		
+	identifiedResourceName = "มึศซฦ๗ผว",
+		
+	identifiedDescriptionName = {
+			
+		"น้ำยาสำหรับฟื้น HP ประมาณ ^000088105^000000 ทำมาจาก Red Herbs และ Yellow Herbs",
+			
+		"น้ำหนัก : ^77777710^000000"
+		
+	},
+		
+	slotCount = 0,
+		
+	ClassNum = 0
+		
+	},
+ [503] = {
+		unidentifiedDisplayName = "Yellow Potion",
+		unidentifiedResourceName = "ณ๋ถ๕ฦ๗ผว",
+		unidentifiedDescriptionName = {
+			"น้ำยาสำหรับฟื้น HP ประมาณ ^000088175^000000 ทำมาจาก Yellow Herbs",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^77777713^000000"
+		},
+		identifiedDisplayName = "Yellow Potion",
+		identifiedResourceName = "ณ๋ถ๕ฦ๗ผว",
+		identifiedDescriptionName = {
+			"น้ำยาสำหรับฟื้น HP ประมาณ ^000088175^000000 ทำมาจาก Yellow Herbs",
+			"น้ำหนัก : ^77777713^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [504] = {
+		unidentifiedDisplayName = "White Potion",
+		unidentifiedResourceName = "วฯพแฦ๗ผว",
+		unidentifiedDescriptionName = {
+			"น้ำยาสำหรับฟื้น HP ประมาณ ^000088325^000000 ทำมาจาก White Herbs",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^77777715^000000"
+		},
+		identifiedDisplayName = "White Potion",
+		identifiedResourceName = "วฯพแฦ๗ผว",
+		identifiedDescriptionName = {
+			"น้ำยาสำหรับฟื้น HP ประมาณ ^000088325^000000 ทำมาจาก White Herbs",
+			"น้ำหนัก : ^77777715^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [505] = {
+		unidentifiedDisplayName = "Blue Potion",
+		unidentifiedResourceName = "ฦฤถ๕ฦ๗ผว",
+		unidentifiedDescriptionName = {
+			"น้ำยาสำหรับฟื้น SP ประมาณ ^00008860^000000 ทำมาจาก Blue Herbs",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^77777715^000000"
+		},
+		identifiedDisplayName = "Blue Potion",
+		identifiedResourceName = "ฦฤถ๕ฦ๗ผว",
+		identifiedDescriptionName = {
+			"น้ำยาสำหรับฟื้น SP ประมาณ ^00008860^000000 ทำมาจาก Blue Herbs",
+			"น้ำหนัก : ^77777715^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [506] = {
+		unidentifiedDisplayName = "Green Potion",
+		unidentifiedResourceName = "รสทฯฦ๗ผว",
+		unidentifiedDescriptionName = {
+			"น้ำยาสำหรับแก้ไข ^000088อาการผิดปรกติ^000000 ได้แก่ ^000088Poison^000000, ^000088Silence^000000, ^000088Blind^000000และ ^000088Chaos^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777777^000000"
+		},
+		identifiedDisplayName = "Green Potion",
+		identifiedResourceName = "รสทฯฦ๗ผว",
+		identifiedDescriptionName = {
+			"น้ำยาสำหรับแก้ไข ^000088อาการผิดปรกติ^000000 ได้แก่ ^000088Poison^000000, ^000088Silence^000000, ^000088Darkness^000000และ ^000088Chaos^000000",
+			"น้ำหนัก : ^7777777^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [507] = {
+		unidentifiedDisplayName = "Red Herb",
+		unidentifiedResourceName = "ปกฐฃวใบ๊",
+		unidentifiedDescriptionName = {
+			"สมุนไพรที่สามารถรักษาบาดแผลเล็กๆได้",
+			"^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		identifiedDisplayName = "Red Herb",
+		identifiedResourceName = "ปกฐฃวใบ๊",
+		identifiedDescriptionName = {
+			"สมุนไพรที่สามารถรักษาบาดแผลเล็กๆได้ ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [508] = {
+		unidentifiedDisplayName = "Yellow Herb",
+		unidentifiedResourceName = "ณ๋ถ๕วใบ๊",
+		unidentifiedDescriptionName = {
+			"สมุนไพรที่สามารถรักษาบาดแผลได้",
+			"^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777775^000000"
+		},
+		identifiedDisplayName = "Yellow Herb",
+		identifiedResourceName = "ณ๋ถ๕วใบ๊",
+		identifiedDescriptionName = {
+			"สมุนไพรที่สามารถรักษาบาดแผลได้ ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^7777775^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+		 [509] = {
+		unidentifiedDisplayName = "White Herb",
+		unidentifiedResourceName = "วฯพแวใบ๊",
+		unidentifiedDescriptionName = {
+			"สมุนไพรที่สามารถรักษาบาดแผลได้เป็นอย่างดี",
+			"^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777777^000000"
+		},
+		identifiedDisplayName = "White Herb",
+		identifiedResourceName = "วฯพแวใบ๊",
+		identifiedDescriptionName = {
+			"สมุนไพรที่สามารถรักษาบาดแผลได้เป็นอย่างดี ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^7777777^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [510] = {
+		unidentifiedDisplayName = "Blue Herb",
+		unidentifiedResourceName = "ฦฤถ๕วใบ๊",
+		unidentifiedDescriptionName = {
+			"สมุนไพรหายากที่มีกลิ่นพิเศษเฉพาะตัว ช่วยผ่อนคลายทำให้จิตใจสบายขึ้น",
+			"^000088ฟื้น SP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777777^000000"
+		},
+		identifiedDisplayName = "Blue Herb",
+		identifiedResourceName = "ฦฤถ๕วใบ๊",
+		identifiedDescriptionName = {
+			"สมุนไพรหายากที่มีกลิ่นพิเศษเฉพาะตัว ช่วยผ่อนคลายทำให้จิตใจสบายขึ้น ^000088ฟื้น SP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^7777777^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [511] = {
+		unidentifiedDisplayName = "Green Herb",
+		unidentifiedResourceName = "รสทฯวใบ๊",
+		unidentifiedDescriptionName = {
+			"สมุนไพรมีค่าที่สามารถต่อต้านพิษได้ทุกชนิด ^000088รักษาอาการเป็นพิษ^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		identifiedDisplayName = "Green Herb",
+		identifiedResourceName = "รสทฯวใบ๊",
+		identifiedDescriptionName = {
+			"สมุนไพรมีค่าที่สามารถต่อต้านพิษได้ทุกชนิด ^000088รักษาอาการเป็นพิษ^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [512] = {
+		unidentifiedDisplayName = "Apple",
+		unidentifiedResourceName = "ป็ฐ๚",
+		unidentifiedDescriptionName = {
+			"ผลของพืชตระกูลกุหลาบ เป็นผลทรงกลมขนาดเล็ก สีแดง สามารถทานได้",
+			"^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		identifiedDisplayName = "Apple",
+		identifiedResourceName = "ป็ฐ๚",
+		identifiedDescriptionName = {
+			"ผลของพืชตระกูลกุหลาบ เป็นผลทรงกลมขนาดเล็ก สีแดง สามารถทานได้ ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [513] = {
+		unidentifiedDisplayName = "Banana",
+		unidentifiedResourceName = "นูณชณช",
+		unidentifiedDescriptionName = {
+			"ผลไม้เขตร้อน มีสีเหลืองและรสหวาน",
+			"^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		identifiedDisplayName = "Banana",
+		identifiedResourceName = "นูณชณช",
+		identifiedDescriptionName = {
+			"ผลไม้เขตร้อน มีสีเหลืองและรสหวาน ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [514] = {
+		unidentifiedDisplayName = "Grape",
+		unidentifiedResourceName = "ฦ๗ตต",
+		unidentifiedDescriptionName = {
+			"ผลของไม้เลื้อย ผิวเรียบ ทานได้และสามารถนำไปหมักเป็นไวน์ได้",
+			" ^000088ฟื้น SP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		identifiedDisplayName = "Grape",
+		identifiedResourceName = "ฦ๗ตต",
+		identifiedDescriptionName = {
+			"ผลของไม้เลื้อย ผิวเรียบ ทานได้และสามารถนำไปหมักเป็นไวน์ได้ ^000088ฟื้น SP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [515] = {
+		unidentifiedDisplayName = "Carrot",
+		unidentifiedResourceName = "ด็ฑู",
+		unidentifiedDescriptionName = {
+			"หัวของพีชตระกูลผักชีฝรั่ง มีสีส้มแกมเหลือง สามารถทานดิบๆหรือนำไปปรุงอาหารก็ได้เด็กส่วนมากจะไม่ชอบผักชนิด",
+			"นี้ ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		identifiedDisplayName = "Carrot",
+		identifiedResourceName = "ด็ฑู",
+		identifiedDescriptionName = {
+			"หัวของพีชตระกูลผักชีฝรั่ง มีสีส้มแกมเหลือง สามารถทานดิบๆหรือนำไปปรุงอาหารก็ได้เด็กส่วนมากจะไม่ชอบผักชนิดนี้ ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [516] = {
+		unidentifiedDisplayName = "Sweet Potato",
+		unidentifiedResourceName = "ฐํฑธธถ",
+		unidentifiedDescriptionName = {
+			"หัวของไม้เลื้อย สามารถเติบโตได้อย่างรวดเร็ว มีรสหวาน",
+			"^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		identifiedDisplayName = "Potato",
+		identifiedResourceName = "ฐํฑธธถ",
+		identifiedDescriptionName = {
+			"หัวของไม้เลื้อย สามารถเติบโตได้อย่างรวดเร็ว มีรสหวาน ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [517] = {
+		unidentifiedDisplayName = "Meat",
+		unidentifiedResourceName = "ฐํฑโ",
+		unidentifiedDescriptionName = {
+			"เนื้อสัตว์ปรุงสำเร็จอย่างดี ดูน่าทานจริงๆ",
+			"^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^77777715^000000"
+		},
+		identifiedDisplayName = "Meat",
+		identifiedResourceName = "ฐํฑโ",
+		identifiedDescriptionName = {
+			"เนื้อสัตว์ปรุงสำเร็จอย่างดี ดูน่าทานจริงๆ ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^77777715^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [518] = {
+		unidentifiedDisplayName = "Honey",
+		unidentifiedResourceName = "ฒ",
+		unidentifiedDescriptionName = {
+			"เป็นของเหลว เหนียว และมีรสหวาน เกิดมาจากเกสรดอกไม้ที่ผึ้งรวบรวมเก็บไว้ในรังผึ้งสำหรับใช้เป็นอาหารสามารถทานได้ แต่ในบางครั้งจะนำมาใช้เป็นยาก็ได้",
+			"^000088ฟื้น HP และ SP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^77777710^000000"
+		},
+		identifiedDisplayName = "Honey",
+		identifiedResourceName = "ฒ",
+		identifiedDescriptionName = {
+			"เป็นของเหลว เหนียว และมีรสหวาน เกิดมาจากเกสรดอกไม้ที่ผึ้งรวบรวมเก็บไว้ในรังผึ้งสำหรับใช้เป็นอาหารสามารถทานได้ แต่ในบางครั้งจะนำมาใช้เป็นยาก็ได้ ^000088ฟื้น HP และ SP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [519] = {
+		unidentifiedDisplayName = "Milk",
+		unidentifiedResourceName = "ฟ์ภฏ",
+		unidentifiedDescriptionName = {
+			"นมวัวผ่านการฆ่าเชื้อในขวด มีคุณค่าทางโภชนาการสูง ช่วยในการเจริญเติบโตของเด็ก",
+			" ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		identifiedDisplayName = "Milk",
+		identifiedResourceName = "ฟ์ภฏ",
+		identifiedDescriptionName = {
+			"นมวัวผ่านการฆ่าเชื้อในขวด มีคุณค่าทางโภชนาการสูง ช่วยในการเจริญเติบโตของเด็ก ^000088ฟื้น HP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [520] = {
+		unidentifiedDisplayName = "Hinalle Leaflet",
+		unidentifiedResourceName = "ศ๗ณชทนภวภูป็ฑอ",
+		unidentifiedDescriptionName = {
+			"ใบอ่อนจากต้น Hinalle มีกลิ่นหอมสดชื่น ช่วยบรรเทาปวดและให้พลังงาน",
+			"^000088ฟื้น HP ได้ส่วนหนึ่ง^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777771^000000"
+		},
+		identifiedDisplayName = "Hinalle Leaflet",
+		identifiedResourceName = "ศ๗ณชทนภวภูป็ฑอ",
+		identifiedDescriptionName = {
+			"ใบอ่อนจากต้น Hinalle มีกลิ่นหอมสดชื่น ช่วยบรรเทาปวดและให้พลังงาน ^000088ฟื้น HP ได้ส่วนหนึ่ง^000000",
+			"น้ำหนัก : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [521] = {
+		unidentifiedDisplayName = "Aloe Leaflet",
+		unidentifiedResourceName = "พหทฮฟกภูป็ฑอ",
+		unidentifiedDescriptionName = {
+			"ใบอ่อนจากต้นว่านหางจระเข้",
+			"^000088ฟื้น HP ได้ส่วนหนึ่ง^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		identifiedDisplayName = "Aloe Leaflet",
+		identifiedResourceName = "พหทฮฟกภูป็ฑอ",
+		identifiedDescriptionName = {
+			"ใบอ่อนจากต้นว่านหางจระเข้ ^000088ฟื้น HP ได้ส่วนหนึ่ง^000000",
+			"น้ำหนัก : ^7777772^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [522] = {
+		unidentifiedDisplayName = "Mastela Fruit",
+		unidentifiedResourceName = "ธถฝบลืถ๓ภวฟญธล",
+		unidentifiedDescriptionName = {
+			"ผลไม้สีม่วง ผิวเป็นมันวาว เก็บจากต้น Mastela",
+			"^000088ฟื้น HP ได้มาก^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		identifiedDisplayName = "Mastela Fruit",
+		identifiedResourceName = "ธถฝบลืถ๓ภวฟญธล",
+		identifiedDescriptionName = {
+			"ผลไม้สีม่วง ผิวเป็นมันวาว เก็บจากต้น Mastela ^000088ฟื้น HP ได้มาก^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [523] = {
+		unidentifiedDisplayName = "Holy Water",
+		unidentifiedResourceName = "ผบผ๖",
+		unidentifiedDescriptionName = {
+			"น้ำมนต์ศักดิ์สิทธิ์ที่ใช้ในพิธีกรรมทางศาสนา",
+			"^000088ใช้แก้ไขอาการ Curse ^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		identifiedDisplayName = "Holy Water",
+		identifiedResourceName = "ผบผ๖",
+		identifiedDescriptionName = {
+			"น้ำมนต์ศักดิ์สิทธิ์ที่ใช้ในพิธีกรรมทางศาสนา ^000088ใช้แก้ไขอาการ Curse ^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [525] = {
+		unidentifiedDisplayName = "Panacea",
+		unidentifiedResourceName = "ธธดษพเ",
+		unidentifiedDescriptionName = {
+			"ยามหัศจรรย์ สามารถรักษาโรคได้ทุกชนิด",
+			"^000088รักษาอาการผิดปรกติได้ทุกชนิด^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^77777710^000000"
+		},
+		identifiedDisplayName = "Panacea",
+		identifiedResourceName = "ธธดษพเ",
+		identifiedDescriptionName = {
+			"ยามหัศจรรย์ สามารถรักษาโรคได้ทุกชนิด ^000088รักษาอาการผิดปรกติได้ทุกชนิด^000000",
+			"น้ำหนัก : ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [526] = {
+		unidentifiedDisplayName = "Royal Jelly",
+		unidentifiedResourceName = "ทฮพโมฆธฎ",
+		unidentifiedDescriptionName = {
+			"สารเหลวมีคุณค่าทางอาหารหลั่งจากต่อมบริเวณลำคอของผึ้ง. ใช้เลี้ยงตัวอ่อนของผึ้งและตัวอ่อนของราชินีผึ้ง",
+			"^000088ใช้รักษาอาการผิดปรกติได้ทุกชนิด^000000, ^000088เพิ่ม HP และ SP ได้^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^77777715^000000"
+		},
+		identifiedDisplayName = "Royal Jelly",
+		identifiedResourceName = "ทฮพโมฆธฎ",
+		identifiedDescriptionName = {
+			"สารเหลวมีคุณค่าทางอาหารหลั่งจากต่อมบริเวณลำคอของผึ้ง ใช้เลี้ยงตัวอ่อนของผึ้งและตัวอ่อนของราชินีผึ้ง ^000088ใช้รักษาอาการผิดปรกติได้ทุกชนิด^000000, ^000088เพิ่ม HP และ SP ได้^000000",
+			"น้ำหนัก : ^77777715^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [528] = {
+		unidentifiedDisplayName = "Monster's Feed",
+		unidentifiedResourceName = "ฑซนฐภวธิภฬ",
+		unidentifiedDescriptionName = {
+			"อาหารปรุงสำเร็จ โดยทั่วไปใช้เลี้ยงสัตว์ประหลาด",
+			"^000088ฟื้น  HP ได้เล็กน้อย^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^77777715^000000"
+		},
+		identifiedDisplayName = "Monster's Feed",
+		identifiedResourceName = "ฑซนฐภวธิภฬ",
+		identifiedDescriptionName = {
+			"อาหารปรุงสำเร็จ โดยทั่วไปใช้เลี้ยงสัตว์ประหลาด ^000088ฟื้น  HP ได้เล็กน้อย^000000",
+			"น้ำหนัก : ^77777715^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
+ [529] = {
+		unidentifiedDisplayName = "Candy",
+		unidentifiedResourceName = "ป็ลม",
+		unidentifiedDescriptionName = {
+			"ขนมที่ทำจากน้ำตาลหรือช็อคโกแลต หล่อเป็นลูกกลมๆ เป็นของโปรดของเด็กๆ",
+			"^000088เพิ่ม HP ได้ 45^000000",
+			"^ffffff_^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		identifiedDisplayName = "Candy",
+		identifiedResourceName = "ป็ลม",
+		identifiedDescriptionName = {
+			"ขนมที่ทำจากน้ำตาลหรือช็อคโกแลต หล่อเป็นลูกกลมๆ เป็นของโปรดของเด็กๆ ^000088เพิ่ม HP ได้ 45^000000",
+			"น้ำหนัก : ^7777773^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+		}, 
